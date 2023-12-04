@@ -1,0 +1,13 @@
+Features of SQLite:
+- Serverless
+- Self-Contained
+- Zero-Configuration
+- Transactional
+- Single-Database
+
+SQLite datatypes:
+- null
+- text
+- real
+- integer
+- blob
